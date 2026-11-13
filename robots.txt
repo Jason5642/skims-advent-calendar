@@ -22,6 +22,5 @@ User-agent: Bytespider
 Allow: /
 
 # LLM Context Specification
-Sitemap: https://example.com/sitemap.xml
-# AI Model Markdown Guide: https://example.com/llms.txt
-
+Sitemap: https://www.skimsadventcalendar.com/sitemap.xml
+# AI Model Markdown Guide: https://www.skimsadventcalendar.com/llms.txt

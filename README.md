@@ -25,3 +25,4 @@ This project has **zero build dependencies**. You can deploy it instantly:
 - **Cloudflare Pages**: Connect this GitHub repository and leave the build command blank.
 - **Vercel / Netlify**: Import this repository as a static site.
 - **GitHub Pages**: Go to Settings -> Pages -> Deploy from a branch (`main` / root).
+
