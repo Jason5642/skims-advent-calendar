@@ -212,6 +212,8 @@ img { height: auto; }
 .text-right { text-align: right; }
 .antialiased { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 .whitespace-pre-wrap { white-space: pre-wrap; }
+.whitespace-nowrap { white-space: nowrap; }
+.shrink-0 { flex-shrink: 0; }
 .truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .line-clamp-2 { overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
 .list-disc { list-style-type: disc; }
